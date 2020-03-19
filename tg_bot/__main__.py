@@ -22,8 +22,6 @@ Hello {}, my name is {}! if you have any questions about how to use me please se
 
 I am a group manager bot maintained by  [this person](tg://user?id={}).
 
-Please Join [This Channel](t.me/GiveAways_24hrs) & [Discuss Group](t.me/GiveAways24hrsDiscuss) .
-
 
 For more commands click /help..."""
 
@@ -46,7 +44,7 @@ And the following:
 DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/xditya) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me\. He's just a poor student, so every little helps!
-PM him to pay him [PM](t.me/xditya)."""
+PM him to pay him [PM](t.me/Denver02)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
